@@ -7,6 +7,9 @@
 #include <time.h>
 #include <sys/time.h>
 
+// added the comments here:
+//  in order to test Github,  modified the comments. Total 2 lines
+
 // gcc -o time_6 time_6.c
 
 uint64_t get_tsc()
